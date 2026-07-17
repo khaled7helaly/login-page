@@ -1,6 +1,6 @@
-import Loan from "../Loan.jsx";
-import HowItWorks from "../HowItWorks.jsx";
-import Newsletter from "../Newsletter.jsx";
+// import Loan from "../Loan.jsx";
+// import HowItWorks from "../HowItWorks.jsx";
+// import Newsletter from "../Newsletter.jsx";
 import ThemeToggle from "../ThemeToggle.jsx";
 
 export default function HomePage() {
@@ -10,9 +10,9 @@ export default function HomePage() {
         <ThemeToggle />
       </div>
 
-      <Loan />
-      <HowItWorks />
-      <Newsletter />
+      {/* <Loan /> */}
+      {/* <HowItWorks /> */}
+      {/* <Newsletter /> */}
     </>
   );
 }
